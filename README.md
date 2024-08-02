@@ -4,7 +4,7 @@
 
 ## High-speed Multicore Computing
 
-[![npm version](https://img.shields.io/npm/v/turbit.svg)](https://www.npmjs.com/package/temcrypt)
+[![npm version](https://img.shields.io/npm/v/turbit.svg)](https://www.npmjs.com/package/turbit)
 
 Turbit is an advanced high-speed multicore computing library in Node.js, designed to optimize performance for computationally intensive operations by leveraging parallel processing across multiple CPU cores.
 
