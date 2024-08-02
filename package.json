@@ -1,0 +1,33 @@
+{
+  "name": "turbit",
+  "version": "1.0.0",
+  "description": "High-speed multicore computing library for optimizing intensive operations through parallel CPU processing.",
+  "main": "turbit.js",
+  "directories": {
+    "images": "assets/images",
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jofpin/turbit.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "cpu-booster",
+    "multicore",
+    "high-performance",
+    "multiprocessing",
+    "data-processing",
+    "multithreading",
+    "parallelism",
+    "parallel-programming",
+    "parallel-computing"
+  ],
+  "author": "Jose Pino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jofpin/turbit/issues"
+  },
+  "homepage": "https://github.com/jofpin/turbit#readme"
+}
